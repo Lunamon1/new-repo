@@ -1,0 +1,15 @@
+F:\GITProject\new-repo\bin\Debug\net7.0\School.exe
+F:\GITProject\new-repo\bin\Debug\net7.0\School.deps.json
+F:\GITProject\new-repo\bin\Debug\net7.0\School.runtimeconfig.json
+F:\GITProject\new-repo\bin\Debug\net7.0\School.dll
+F:\GITProject\new-repo\bin\Debug\net7.0\School.pdb
+F:\GITProject\new-repo\obj\Debug\net7.0\School.csproj.AssemblyReference.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\School.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITProject\new-repo\obj\Debug\net7.0\School.AssemblyInfoInputs.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\School.AssemblyInfo.cs
+F:\GITProject\new-repo\obj\Debug\net7.0\School.csproj.CoreCompileInputs.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\School.dll
+F:\GITProject\new-repo\obj\Debug\net7.0\refint\School.dll
+F:\GITProject\new-repo\obj\Debug\net7.0\School.pdb
+F:\GITProject\new-repo\obj\Debug\net7.0\School.genruntimeconfig.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\ref\School.dll

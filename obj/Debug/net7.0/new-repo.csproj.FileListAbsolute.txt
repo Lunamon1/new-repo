@@ -1,0 +1,15 @@
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.csproj.AssemblyReference.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.AssemblyInfoInputs.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.AssemblyInfo.cs
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.csproj.CoreCompileInputs.cache
+F:\GITProject\new-repo\bin\Debug\net7.0\new-repo.exe
+F:\GITProject\new-repo\bin\Debug\net7.0\new-repo.deps.json
+F:\GITProject\new-repo\bin\Debug\net7.0\new-repo.runtimeconfig.json
+F:\GITProject\new-repo\bin\Debug\net7.0\new-repo.dll
+F:\GITProject\new-repo\bin\Debug\net7.0\new-repo.pdb
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.dll
+F:\GITProject\new-repo\obj\Debug\net7.0\refint\new-repo.dll
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.pdb
+F:\GITProject\new-repo\obj\Debug\net7.0\new-repo.genruntimeconfig.cache
+F:\GITProject\new-repo\obj\Debug\net7.0\ref\new-repo.dll
