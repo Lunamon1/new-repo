@@ -19,7 +19,7 @@ namespace School
 
         public Student()
         {
-            
+                                   
         }
         public string Name
         {

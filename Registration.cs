@@ -9,9 +9,10 @@ namespace School
     {
         static void Main(string[] args)
         {
-            Student Maria = new Student();
+            Student Maria = new ("Maria Camacho", 19);
+
             //  Maria = new Student();
-            // Student Josh = new School("Josh", 21);
+            Student Josh = new ("Josh", 21);
             
         }
     }
